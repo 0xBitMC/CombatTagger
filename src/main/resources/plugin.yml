@@ -1,0 +1,7 @@
+name: CombatTag
+version: '${project.version}'
+main: dev.xbit.combattag.CombatTag
+api-version: 1.18
+depend: [ Towny ]
+authors: [ 0xBit ]
+description: A simple CombatTag Plugin
